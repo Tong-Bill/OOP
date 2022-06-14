@@ -1,9 +1,9 @@
 # This file is for 202_PA4.py
 
 class Student:
-    def __init__(self, number, numCourses, firstName, lastName, gpa):
+    def __init__(self, number, firstName, lastName, gpa):
         self.number = number
-        self.numCourses = numCourses
+        #self.numCourses = numCourses
         self.firstName = firstName
         self.lastName = lastName
         self.gpa = gpa
@@ -13,9 +13,10 @@ class Student:
         print(self.firstName + " " + self.lastName)
 
     def printSchedule(self):
-        pass
+        for x in self.schedule:
+            print(x)
 
-    def addCourse(self, course):
+    def addCourse(self):
         pass
 
 class Course:
