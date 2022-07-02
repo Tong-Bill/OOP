@@ -1,0 +1,10 @@
+Reno to San Francisco is 220 miles
+Reno to Salt Lake City is 520 miles
+Reno to Seattle is 700 miles
+Reno to Las Vegas is 440 miles
+San Francisco to Seattle is 740 miles
+San Francisco to Salt Lake City is 800 miles
+San Francisco to Las Vegas is 570 miles
+Salt Lake City to Seattle is 840 miles
+Salt Lake City to Las Vegas is 420 miles
+Seattle to Las Vegas is 1100 mile
